@@ -1,2 +1,2 @@
 # argumenta
-software de análisis discursivo
+Software de análisis discursivo.
